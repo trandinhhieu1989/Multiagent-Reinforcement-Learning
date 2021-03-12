@@ -1,0 +1,2 @@
+This code is written by Tran Dinh Hieu.
+I tried to coded the paper: Efficient D2D content caching using multi-agent reinforcemnt learning, INFOCOM 2018.
